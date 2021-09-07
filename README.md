@@ -1,5 +1,4 @@
-### Hi there 👋
-### I'm Giri Narasimha
+### Hi there 👋 , I'm Giri Narasimha
 ### Have a look at my portfolio Website - https://girinarasimhat.github.io/
 
 <!--
