@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My Website - https://girinarasimhat.github.io/
+## Visit my Website - https://girinarasimhat.github.io/
 
 <!--
 **GiriNarasimhaT/GiriNarasimhaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
