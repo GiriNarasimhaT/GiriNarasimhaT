@@ -1,5 +1,5 @@
 ### Hi there 👋 , I'm Giri Narasimha
-### Have a look at my portfolio Website - https://girinarasimhat.github.io/
+### https://girinarasimhat.github.io/
 
 <!--
 **GiriNarasimhaT/GiriNarasimhaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
